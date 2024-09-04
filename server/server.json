@@ -1,0 +1,4 @@
+{
+    "server": "WebSocket server address",
+    "port": 8080
+}
