@@ -1,0 +1,23 @@
+{
+  "name": "livedraw",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "live",
+    "drawing",
+    "canvas",
+    "realtime",
+    "socket.io"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "description": "A live drawing application where users can draw together in real-time.",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1",
+    "socket.io": "^4.7.5"
+  }
+}
